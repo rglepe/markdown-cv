@@ -1,91 +1,167 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Raúl García Lepe
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+<h2>
+<img class='foto' src="foto_cv.png">
+</h2>
+# Raúl García Lepe
+Formador Full-Stack Development
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://bcncodes.academy">bcncodes.academy@gmail.com</a>
 </div>
 
 
-## Currently
+## OBJETIVO PROFESIONAL
 
-Standing on the shoulders of giants
+Preparar e impartir formación de calidad actualizada en el ámbito de la programación de aplicaciones y la gestión y administración de distintos sistemas de bases de datos.
 
-### Specialized in
+### Especialidades
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+JavaScript, CSS & HTML; ANGULAR, REACT, NodeJS & ExpressJS; MongoDB, GIT, Técnicas Agile, TDD, RDBMS
 
+### Competencias
 
-### Research interests
+__Aprendizaje__ y __transmisión de conocimientos__. Nuevos lenguajes de programación y programa informáticos
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Pensamiento analítico__ y __científico__ a la hora de analizar problemas y requerimientos informáticos.
 
+__Comunicación__. Interpretación de contenidos y transmisión oral y escrita.
 
-## Education
+__Planificación__ y __Organización__. Estructuración de contenidos y planificación de itinerarios formativos
 
-`1654-1660`
-__The King's School, Grantham.__
+__Trabajo en equipo__. Uno de los pilares del desarrollo de proyectos informáticos que también ofrece resultados a la hora de la formación. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Orientación al alumno__ y __flexibilidad__. Recogiendo las sugerencias y adaptando el itinerario formativo para satisfacer sus necesidades
 
-- Sizar
+__Iniciativa__ para buscar e implantar soluciones a los problemas planteados.
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experiencia Formativa
 
-- Fellow
+`2020`
+__NASCOR Formación__. Certificado Profesional de Desarrollo Web (IFCD0210). Módulo Desarrollo Web Lado Cliente (125h).
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019`
+__CIFO La Violeta__. Itinerario Formativo Mean-Stack. Desarrollo Web con Angular, MongoDB y NodeJs (500h).
 
 
+__IronHack__. Módulo de desarrollo web del curso MERN-STACK (160h)
 
-## Publications
+`2018`
+__CIFO La Violeta__. Itinerario Formativo Mean-Stack. Desarrollo Web con Angular, MongoDB y NodeJs (300h).
+
+
+__CIFO L'HOSPITALET__. Certificado Profesional de Desarrollo Web (IFCD0210)(490h).
+
+
+__NETMIND__. Certificado Profesional de Desarrollo Web (IFCD0210)(190h).
+
+
+__MONLAU COMPETICIÓN__. Curso INFORMÁTICA APLICADA, curso 2017-2018(60h).
+
+`2017`
+__Mútua General de Catalunya__. Fundamentos de PL/SQL y Optimización SQL para programadores (45h).
+
+
+__Fundación CIM (UPC)__. Certificado Profesional Gestión y Administración de Bases de Datos y
+Programación (IFCT0310) (520h)
+
+## Otra Experiencia Laboral 
+
+`2019`- `Actualidad`
+__ESTUDIOS DWWWI__: Consultoría Desarrollo WebAPPS con Angular y IONIC.  
+
+`2017`
+__INNOBUS 2017__: Proyecto de Innovación organizado por el Innobaix de Cornellà de
+- Preparación y presentación de distintos retos de Innovación a ALMIRALL, BAYER, AVANT-BUS, Puerto de Barcelona.
+
+`2001-2015`  
+__INDRA SISTEMAS__: Multinacional dedicada al desarrollo y mantenimiento de sistemas
+informáticos.
+- Jefe de proyecto, Analista y Formador
+  - Gestión de Equipos de desarrollo.
+  - Interlocución con clientes.
+  - Documentación de requerimientos.
+  - Análisis e implantación de sistemas de información.
+  - Formación de usuarios y miembros de equipos.
+      - Preparación de temario y formación in-company en Business Objects para INDRA.
+      - Formación en aplicaciones de gestión de expedientes a distintos clientes.
+      - Formación en bases de datos multidimensionales Hyperion Essbase en Gas Natural.
+
+`1996-1999`
+__Instituto Nacional de Investigaciones Agrarias__: Instituto especializado en I+D del Ministerio de Agricultura.
+Investigador predoctoral
+  - Doctorado en control de plagas en plantas.
+
+## Formación Académica
+
+`1994`
+ __Licenciatura__ en Ciencias Biológicas por la Universidad Autónoma de Madrid (UAM).
+
+`1995`
+ __Certificado de Adaptación Pedagógica__ (CAP) por la Universidad Complutense de Madrid
+
+`1996`
+ __Grado__ de Licenciatura  por la Facultad de Ciencias (UAM)
+
+`1996`
+ Concesión del __Premio Extraordinario de Licenciatura__ Facultad de Ciencias (UAM)
+
+### Certificaciones
+
+ACTIC (Nivell 2)
+
+Certificado de Técnico de Gestión Ambiental.
+
+
+## Formación Técnica Informática
+
+`2017` 
+PROGRAMACIÓ CONTINGUTS WEBS AMB WORDPRESS I JOOMLA. Cibernàrium (BCN).
+
+`2016` 
+SCRUM: INTRODUCCIÓ AL DESENVOLUPAMENT ÀGIL DE SOFTWARE. Cibernàrium (BCN). 12hs.
+
+`2015` 
+MOODLE: DISSENYA I ADMINISTRA UNA PLATAFORMA DE FORMACIÓ ON LINE. Cibernàrium (BCN).8h
+
+`2005` 
+ARQUITECTURA Y DISEÑO DE APLICACIONES J2EE. SISNET (BCN). 32 hs.
+
+`2005` 
+PROGRAMACIÓN XML ONLINE EDUCATERRA S.L.. (BCN). 40 hs.
+
+`2004` 
+ANÁLISIS Y DISEÑO ORIENTADO A OBJETOS - UML- BIT. (BCN). 32 hs.
+
+`2001` 
+IPLANET. BIT FORMACION INFORMATICA. (BCN). 32 hs.
+
+`2001` 
+JAVA. BIT. (BCN). 64 hs
+
+`1999` 
+BUSINESS INTELIGENCE. EUROPSTAT (París) 120 hs.
+
+`1999` 
+DESIGNER, SQL Y ADMINISTRACIÓN DE BASES DE DATOS ORACLE. COMUNIDAD DE MADRID. 180 hs.
+
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Idiomas
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__CASTELLANO__, lengua nativa
 
-`1669`
-Lectiones opticæ.
+__CATALÁN__ NIVEL C (Certificado)
 
-etc. etc. etc.
+__INGLÉS__ NIVEL ALTO (5º EOI y estancia como Investigador invitado en el Department of Agricultural Sciences, University of Bristol, Long Ashton, Reino Unido. 1998)
 
-### Patents
+__FRANCÉS__ NIVEL ELEMENTAL
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Última actualización
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Febrero 2020
 
 
