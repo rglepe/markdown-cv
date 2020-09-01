@@ -167,4 +167,4 @@ __FRANCÉS__ NIVEL ELEMENTAL
 
 ### Última actualización
 
-Abril 2020
+Septiembre 2020
