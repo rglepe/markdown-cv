@@ -9,7 +9,10 @@ title: CV de Raúl García Lepe
 Formador Full-Stack Development
 
 <div id="webaddress">
-<a href="http://bcncodes.academy">bcncodes.academy@gmail.com</a>
+email: <a href="http://bcncodes.academy">bcncodes.academy@gmail.com</a>
+</div>
+<div id="webaddress">
+web: <a href="http://bcncodes.academy">  bcncodes.academy</a>
 </div>
 
 
@@ -19,7 +22,7 @@ Preparar e impartir formación de calidad actualizada en el ámbito de la progra
 
 ### Especialidades
 
-JavaScript, CSS & HTML; ANGULAR, REACT, NodeJS & ExpressJS; MongoDB, GIT, Técnicas Agile, TDD, RDBMS
+JavaScript, CSS & HTML; ANGULAR, VUEJS, REACT, REST,GRAPHQL, NodeJS & ExpressJS; MongoDB, GIT, Técnicas Agile, TDD, RDBMS, MarkDown,...
 
 ### Competencias
 
@@ -40,6 +43,8 @@ __Iniciativa__ para buscar e implantar soluciones a los problemas planteados.
 ## Experiencia Formativa
 
 `2020`
+__NEOLAND__. Bootcamp Web Developer. Módulo Backend (160h)
+
 __NASCOR Formación__. Certificado Profesional de Desarrollo Web (IFCD0210). Módulo Desarrollo Web Lado Cliente (125h).
 
 `2019`
@@ -69,7 +74,7 @@ Programación (IFCT0310) (520h)
 
 ## Otra Experiencia Laboral 
 
-`2019`- `Actualidad`
+`2019 - Actualidad`
 __ESTUDIOS DWWWI__: Consultoría Desarrollo WebAPPS con Angular y IONIC.  
 
 `2017`
@@ -162,6 +167,4 @@ __FRANCÉS__ NIVEL ELEMENTAL
 
 ### Última actualización
 
-Febrero 2020
-
-
+Abril 2020
