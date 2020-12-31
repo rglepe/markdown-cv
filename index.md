@@ -43,6 +43,8 @@ __Iniciativa__ para buscar e implantar soluciones a los problemas planteados.
 ## Experiencia Formativa
 
 `2020`
+__PIMEC~NETMIND__. Proyecto Singulars. Front-end Developer (490h)
+
 __NEOLAND__. Bootcamp Web Developer. Módulo Backend (160h)
 
 __NASCOR Formación__. Certificado Profesional de Desarrollo Web (IFCD0210). Módulo Desarrollo Web Lado Cliente (125h).
@@ -167,4 +169,4 @@ __FRANCÉS__ NIVEL ELEMENTAL
 
 ### Última actualización
 
-Septiembre 2020
+Diciembre 2020
